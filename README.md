@@ -10,7 +10,7 @@ PixelPlay is a SQL-based project that simulates the backend of a virtual video g
 
 ## 🧰 Technologies Used
 
-- **Database**: PostgreSQL (or compatible relational database)
+- **Database**: MySQL (or compatible relational database)
 - **SQL**: Standard SQL for schema creation and data manipulation
 
 ## 🧾 Features
