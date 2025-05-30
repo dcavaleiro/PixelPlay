@@ -23,7 +23,7 @@ PixelPlay is a SQL-based project that simulates the backend of a virtual video g
 
 ### Prerequisites
 
-- PostgreSQL installed on your system.
+- MySQL installed on your system.
 - A SQL client or interface to execute SQL scripts.
 
 ### Installation
